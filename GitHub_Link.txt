@@ -1,5 +1,13 @@
-Repo Link:
+Final Packet Repo Link:
 https://github.com/av1155/CSC-431-Final-Project-Package
 
-Download Link:
+Final Packet Repo Download Link:
 https://github.com/av1155/CSC-431-Final-Project-Package/archive/refs/heads/main.zip
+
+---
+
+Prototype Repo Link:
+https://github.com/av1155/bridgechat
+
+Prototype Repo Download Link:
+https://github.com/av1155/bridgechat/archive/refs/heads/main.zip
