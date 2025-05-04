@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDsP2hmkKLRRTuIkkuhCJmYtBGkdLd_Ryo',
+    apiKey: '...',
     appId: '1:803754240293:web:60a3638e06b51bc6a592cc',
     messagingSenderId: '803754240293',
     projectId: 'av1155-bridgechat',
@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB3PGxPQBu0MnEyFVb0yeT93_Zfmu511F0',
+    apiKey: '...',
     appId: '1:803754240293:android:ef449b984c85acaca592cc',
     messagingSenderId: '803754240293',
     projectId: 'av1155-bridgechat',
@@ -76,7 +76,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDsP2hmkKLRRTuIkkuhCJmYtBGkdLd_Ryo',
+    apiKey: '...',
     appId: '1:803754240293:web:a642395fa52fa59ea592cc',
     messagingSenderId: '803754240293',
     projectId: 'av1155-bridgechat',
